@@ -1,7 +1,7 @@
 # Site settings
-title:          Tale
+title:          Marrinta Philosophy
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+baseurl:        "/Philosophy/
 url:            "https://chesterhow.github.io"
 
 # Author
