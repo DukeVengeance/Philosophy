@@ -133,4 +133,6 @@ and `<br>` for line breaks.
 
 <br>
 
+[Example Content]({{ site.baseurl }}/2017-03-16/example-content)
+
 _The end_
