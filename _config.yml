@@ -1,14 +1,14 @@
 # Site settings
-title:          Marrinta Philosophy
-description:    "Minimal Jekyll theme for storytellers"
+title:          Values
+description:    "Welcome to Yesterday"
 baseurl:        "/Philosophy"
-url:            "https://chesterhow.github.io"
+url:            "https://majuntang.com/Philosophy/"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Ma Juntang
+  url:          https://majuntang.com
+  email:        me@vrolia.com
 
 # Build settings
 markdown:       kramdown
