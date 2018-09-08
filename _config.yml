@@ -1,8 +1,8 @@
 # Site settings
 title:          Values
 description:    "Welcome to Yesterday"
-baseurl:        "/Philosophy"
-url:            "https://majuntang.com/Philosophy/"
+baseurl:        "/Values"
+url:            "https://majuntang.com/Values/"
 
 # Author
 author:
