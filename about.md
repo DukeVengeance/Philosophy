@@ -4,9 +4,10 @@ title: "About"
 author: "Majuntang"
 permalink: /about/
 ---
-Majuntang
+### Email
 me@vrolia.com
-[Me](majuntang.com)
+### Site
+[Me](https://majuntang.com)
 :)
 
 ## Theme Contributor
