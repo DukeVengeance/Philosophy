@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Majuntang"
 permalink: /about/
 ---
 Majuntang
-## Contribute
+me@vrolia.com
+[Me](majuntang.com)
+:)
+
+## Theme Contributor
 [GitHub](https://github.com/chesterhow/tale)
